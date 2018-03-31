@@ -1,0 +1,28 @@
+/*--news--*/
+ .blog-pagenat {
+  text-align: center;
+  margin-top: 3em;
+}
+.blog-pagenat ul li {
+  display: inline-block;
+  list-style:none;
+}
+.blog-pagenat ul li a {
+    display: block;
+    background:#b2ce22;
+    padding: 8px 1.1em;
+    font-size: 1.0em;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 400;
+    display: inline-block;
+    margin-top: 1em;
+    text-decoration: none;
+    border: 1px solid #ffffff;
+}
+.blog-pagenat ul li a:hover {
+  background:#000000;
+  color:#fff;
+  border: 1px solid #ffffff;
+}
+
